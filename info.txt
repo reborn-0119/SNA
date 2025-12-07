@@ -1,0 +1,12 @@
+P1-A.py    weighted directed graph, size proportional to degree
+P1-B.y
+P1.py      real n/w  bali.txt
+
+P2-A.py     Degree distribution of n/weighted
+P2-B.py     Simple PageRank
+P2.py       degree distribution of a real-world n/w, local and global properties
+
+P3.py       three n/w of 1000 nodes each using Random Network Model, Small World Network Model, Preferential Attachment Model
+P4.py       Karate Club Compute different centrality measures to identify top-N nodes and compute rank correlation coefficient with the ranks obtained by PageRank method.
+P5.py       community detection algorithms
+P6.py       Simulate diffusion trends for different epidemic models and present results using appropriate visuals.
